@@ -1,6 +1,6 @@
 <?php
 
-    if(!empty[$_GET['idcosmeticos']])
+    if(!empty($_GET['idcosmeticos']))
     {
         include_once ('config.php');
 

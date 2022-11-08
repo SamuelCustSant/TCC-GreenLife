@@ -7,7 +7,7 @@
         $emailadm = $_POST['emailadm'];
         $senhaadm = $_POST['senhaadm'];
 
-        $result = mysqli_query($conexao, "INSERT INTO adm(email,senha) 
+        $result = mysqli_query($conexao, "INSERT INTO adm(emailadm,senhaadm) 
         VALUES('$emailadm','$senhaadm')");
 
     }
@@ -51,7 +51,7 @@
 <div class="form-group">
   <label class="col-md-4 control-label" for="admemail"></label>  
   <div class="col-md-4">
-  <input id="emailadm" name="admemail" type="text" placeholder="Email" class="form-control input-md">
+  <input id="emailadm" name="emailadm" type="text" placeholder="Email" class="form-control input-md">
     
   </div>
 </div>
@@ -60,7 +60,7 @@
 <div class="form-group">
   <label class="col-md-4 control-label" for="admsenha"></label>
   <div class="col-md-4">
-    <input id="senhaadm" name="admsenha" type="password" placeholder="Senha" class="form-control input-md">
+    <input id="senhaadm" name="senhaadm" type="password" placeholder="Senha" class="form-control input-md">
     
   </div>
 </div>
@@ -80,7 +80,7 @@
 
 <br><br><br><br><br><br>
 
-<center><a href="cadastros.html"><button type="button" class="btn btn-success">Voltar</button></a></center>
+<center><a href="sessaoadmcadastros.html"><button type="button" class="btn btn-success">Voltar</button></a></center>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>

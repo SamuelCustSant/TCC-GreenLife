@@ -11,7 +11,7 @@
   }
   $logado = $_SESSION['emailadm'];
 
-  $sql = "SELECT * FROM clientes ORDER BY id DESC";
+  $sql = "SELECT * FROM clientes";
 
   $result = $conexao->query($sql);
 

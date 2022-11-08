@@ -80,15 +80,15 @@
 <div class="row">
   <div class="col">
 
-<div class="thumbnail">  
+  <div class="thumbnail">  
 <center>   
 <div class="card" style="width: 18rem;">
-<img src="https://i.pinimg.com/originals/02/2b/d4/022bd43f0605873322add5b1e42ae15f.jpg" class="card-img-top" alt="...">
-<div class="card-body">
-  <h5 class="card-title"><center>Barra de Chocolate</center></h5>
-  <p class="card-text"> <font face="Arial Light" size="5">  R$ 04,90</font></p>
-  <center><a href="#" class="btn btn-success"><b>Comprar</b></center></a>
-</div>
+  <img src="Images/higiene/sabonete.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"><center>Sabonete</center></h5>
+    <p class="card-text"> <font face="Arial Light" size="5">  R$ 05,90</font></p>
+    <center><a href="#" class="btn btn-success"><b>Comprar</b></center></a>
+  </div>
 </div>
 </center>
 </div> 
@@ -98,37 +98,37 @@
   </div>
   <div class="col">
 
-<div class="thumbnail"> 
+  <div class="thumbnail"> 
 <center>     
 <div class="card" style="width: 18rem;">
-<img src="https://i.pinimg.com/originals/02/2b/d4/022bd43f0605873322add5b1e42ae15f.jpg" class="card-img-top" alt="...">
-<div class="card-body">
-  <h5 class="card-title"><center>Barra de Chocolate</center></h5>
-  <p class="card-text"> <font face="Arial Light" size="5">  R$ 04,90</font></p>
-  <center><a href="#" class="btn btn-success"><b>Comprar</b></center></a>
-</div>
+  <img src="Images/higiene/saboneteliquid.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"><center>Sabonete Líquido</center></h5>
+    <p class="card-text"> <font face="Arial Light" size="5">  R$ 10,50</font></p>
+    <center><a href="#" class="btn btn-success"><b>Comprar</b></center></a>
+  </div>
 </div>
 </center>
 </div>
+
 
 <br>
 
   </div>
   <div class="col">
 
-<div class="thumbnail">
+  <div class="thumbnail">
 <center>
 <div class="card" style="width: 18rem;">
-<img src="https://i.pinimg.com/originals/02/2b/d4/022bd43f0605873322add5b1e42ae15f.jpg" class="card-img-top" alt="...">
-<div class="card-body">
-  <h5 class="card-title"><center>Barra de Chocolate</center></h5>
-  <p class="card-text"> <font face="Arial Light" size="5">  R$ 04,90</font></p>
-  <center><a href="#" class="btn btn-success"><b>Comprar</b></center></a>
-</div>
+  <img src="Images/higiene/pasta.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title"><center>Pasta de Dentes</center></h5>
+    <p class="card-text"> <font face="Arial Light" size="5">  R$ 04,90</font></p>
+    <center><a href="#" class="btn btn-success"><b>Comprar</b></center></a>
+  </div>
 </div>
 </center>
 </div>
-
 
 
   </div>

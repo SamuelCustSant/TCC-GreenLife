@@ -1,6 +1,6 @@
 <?php
 
-    if(!empty[$_GET['idclientes']])
+    if(!empty($_GET['idclientes']))
     {
         include_once ('config.php');
 

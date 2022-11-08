@@ -37,19 +37,19 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="promocoes.html">Promoções</a>
+            <a class="nav-link active" aria-current="page" href="PLPromo.php">Promoções</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="alimentacao.html">Alimentação</a>
+            <a class="nav-link active" href="PLAli.php">Alimentação</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="vestuario.html">Vestuário</a>
+            <a class="nav-link active" href="PLVest.php">Vestuário</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="higiene.html">Higiene</a>
+            <a class="nav-link active" href="PLHig.php">Higiene</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="cosmeticos.html">Cosméticos</a>
+            <a class="nav-link active" href="PLCos.php">Cosméticos</a>
           </li>
         </ul>
 
