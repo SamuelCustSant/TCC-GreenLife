@@ -104,8 +104,8 @@
 
         
 
-          <div class='card m-3' id="thumbnail" style='width: 18rem;'>
-            <img src="/Image/home/" . <?= $user_data['imgdes']?> class='card-img-top' alt='...'>
+          <div class='card m-3' style='width: 18rem;'>
+            <img src="/Images/home/" . <?= $user_data['imgdes']?> class='card-img-top' alt='...'>
             <div class='card-body'>
               <h5 class='card-title'><center> <?= $user_data['produtodes'] ?> </center></h5>
               <p class='card-text'><font size="5" style="font-family: Arial Light;"><center><?= $user_data['precodes'] ?></center></font></p>
